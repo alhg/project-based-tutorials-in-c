@@ -57,6 +57,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
+* [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
 * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
 * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
 * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
@@ -64,19 +65,24 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
+* [Implementing Solitaire in C](https://jborza.github.io/games/2020/07/12/solitaire-cli.html)
 * [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
+* [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video` `in-progress`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
+* Text Adventure `video` `in-progress`
+    * [Episode 1](https://youtu.be/J_Igbh0RH8c)
+    * [Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 * Video Game Physics Tutorial
-   * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
-   * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
-   * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
+    * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+    * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
+    * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
 * [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
 * [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 * [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
@@ -100,10 +106,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) `book`
 * [OS161: Everything you need to learn about operating systems](https://www.ops-class.org/) `course`
-* [Rewrite cat](https://learnto.computer/screencasts/bsd-cat) `video`
-* Rewrite mkdir `video`
-   * [mkdir](https://learnto.computer/screencasts/bsd-mkdir)
-   * [Building paths for mkdir -p](https://learnto.computer/screencasts/bsd-mkdir-p)
+* Re-Writing BSD 4.4 Shell Commands: `video`
+    * [cat](https://www.youtube.com/watch?v=MCuzvy79WWQ)
+    * [chmod](https://www.youtube.com/watch?v=p7uJBl4A_BA)
+    * [echo](https://www.youtube.com/watch?v=69CYF7nJKj8)
+    * [mkdir](https://www.youtube.com/watch?v=t96qYd4OUBM)
 * [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [The little book about OS development](https://littleosbook.github.io/) `book`
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
@@ -118,6 +125,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Programming Languages
 
+* [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [A Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
